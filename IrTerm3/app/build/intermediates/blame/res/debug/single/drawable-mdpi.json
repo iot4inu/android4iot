@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_save.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_save.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_alarm_off.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_alarm_off.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_grid.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_grid.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_list.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_list.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_up.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_up.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_load.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_load.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_enter.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_enter.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_bluetooth_disable.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_bluetooth_disable.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_down.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_down.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_mic.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_mic.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_alarm_on.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_alarm_on.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_speak.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_speak.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_time.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_time.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_bluetooth.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_bluetooth.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_bluetooth_enable.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_bluetooth_enable.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_control.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/drawable-mdpi/ic_action_control.png"
+    }
+]

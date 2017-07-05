@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/color/list_item_title.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/color/list_item_title.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/build/intermediates/res/merged/debug/color/selector.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm3/app/src/main/res/color/selector.xml"
+    }
+]

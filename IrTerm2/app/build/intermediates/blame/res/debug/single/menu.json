@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/menu/fragment_adapter_transition.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/menu/fragment_adapter_transition.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/menu/menu_main.xml"
+    }
+]

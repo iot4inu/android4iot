@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/layout/fragment_rc_button_grid_5c.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/layout/fragment_rc_button_grid_5c.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/layout/item_rc_button_list.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/layout/item_rc_button_list.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/layout/fragment_adapter_transition.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/layout/fragment_adapter_transition.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/layout/fragment_rc_button_list.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/layout/fragment_rc_button_list.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/layout/fragment_rc_button_grid_3c.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/layout/fragment_rc_button_grid_3c.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/layout/item_rc_button_grid.xml",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/layout/item_rc_button_grid.xml"
+    }
+]

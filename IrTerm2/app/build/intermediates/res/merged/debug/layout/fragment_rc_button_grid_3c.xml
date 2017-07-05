@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView
+    android:id="@+id/abs_list_view"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="218dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:columnWidth="70dp"
+    android:numColumns="auto_fit"
+    android:stretchMode="none"
+    android:clipToPadding="false"
+    android:padding="1dp"
+    android:horizontalSpacing="1dp"
+    android:verticalSpacing="1dp"
+    android:scrollbars="none" />

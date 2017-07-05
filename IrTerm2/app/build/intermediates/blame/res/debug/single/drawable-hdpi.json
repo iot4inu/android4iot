@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_3c_grid.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/drawable-hdpi/ic_action_3c_grid.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_save.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/drawable-hdpi/ic_action_save.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_load.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/drawable-hdpi/ic_action_load.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_5c_grid.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/drawable-hdpi/ic_action_5c_grid.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_bluetooth.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/drawable-hdpi/ic_action_bluetooth.png"
+    },
+    {
+        "merged": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_list.png",
+        "source": "/Users/KKIM/AndroidStudioProjects/IrTerm2/app/src/main/res/drawable-hdpi/ic_action_list.png"
+    }
+]

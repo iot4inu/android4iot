@@ -1,0 +1,116 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" android:background="#ff212121">
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="#00000000"
+        android:id="@+id/bt_connect"
+        android:layout_centerHorizontal="true"
+        android:text="연결"
+        android:src="@drawable/rc_blue_tooth" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc3"
+        android:src="@drawable/rc_3"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc2"
+        android:src="@drawable/rc_2"
+        android:layout_alignTop="@id/rc3"
+        android:layout_toLeftOf="@id/rc3"
+        android:layout_toStartOf="@id/rc3" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc1"
+        android:src="@drawable/rc_1"
+        android:layout_alignTop="@+id/rc3"
+        android:layout_toLeftOf="@id/rc2"
+        android:layout_toStartOf="@id/rc2" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc4"
+        android:src="@drawable/rc_4"
+        android:layout_alignTop="@id/rc3"
+        android:layout_toRightOf="@id/rc3"
+        android:layout_toEndOf="@id/rc3" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc9"
+        android:src="@drawable/rc_plus"
+        android:layout_alignTop="@id/rc3"
+        android:layout_toRightOf="@id/rc4"
+        android:layout_toEndOf="@id/rc4" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc7"
+        android:src="@drawable/rc_7"
+        android:layout_below="@id/rc3"
+        android:layout_centerHorizontal="true" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc6"
+        android:src="@drawable/rc_6"
+        android:layout_below="@id/rc2"
+        android:layout_toLeftOf="@id/rc7"
+        android:layout_toStartOf="@id/rc7" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc5"
+        android:src="@drawable/rc_5"
+        android:layout_below="@id/rc1"
+        android:layout_toLeftOf="@id/rc6"
+        android:layout_toStartOf="@id/rc6" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc8"
+        android:src="@drawable/rc_8"
+        android:layout_below="@id/rc4"
+        android:layout_toRightOf="@id/rc7"
+        android:layout_toEndOf="@id/rc7" />
+    <ImageButton
+        android:scaleType="fitXY"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#00000000"
+        android:id="@+id/rc10"
+        android:src="@drawable/rc_minus"
+        android:layout_below="@id/rc9"
+        android:layout_toRightOf="@id/rc8"
+        android:layout_toEndOf="@id/rc8" />
+</RelativeLayout>

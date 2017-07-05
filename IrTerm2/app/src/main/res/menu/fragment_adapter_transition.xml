@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bt_connect"
+        android:title="@string/bt_connect"
+        android:icon="@drawable/ic_action_bluetooth"
+        android:orderInCategory="1"
+        android:showAsAction="always" />
+    <item
+        android:id="@+id/action_cycle"
+        android:icon="@drawable/ic_action_3c_grid"
+        android:showAsAction="always"
+        android:title="@string/show_as_3c_grid"/>
+    <item
+        android:id="@+id/save_code"
+        android:icon="@drawable/ic_action_save"
+        android:showAsAction="ifRoom"
+        android:title="@string/save_code"/>
+    <item
+        android:id="@+id/load_code"
+        android:icon="@drawable/ic_action_load"
+        android:showAsAction="ifRoom"
+        android:title="@string/load_code"/>
+    <item
+        android:id="@+id/export_code"
+        android:showAsAction="never"
+        android:title="@string/export_code"/>
+    <item
+        android:id="@+id/import_code"
+        android:showAsAction="never"
+        android:title="@string/import_code"/>
+</menu>

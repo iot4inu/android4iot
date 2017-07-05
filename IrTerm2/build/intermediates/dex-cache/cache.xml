@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0563c93dee328a73dcfbcaa13b4144d818d6b2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05824f81f5f47ffac3e44c0b593a50027012114f">
+        <dex dex="/Users/KKIM/AndroidStudioProjects/IrTerm2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_45af5071b3f7d0a3b8d3f1cdff41f0351346826c/classes.dex" />
+    </item>
+
+</items>
